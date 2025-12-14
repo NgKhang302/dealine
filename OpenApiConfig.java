@@ -1,5 +1,5 @@
 package com.khang;
-
+//chỉ cấu hình Swagger UI (giao diện web để test API) hiển thị:
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.security.SecurityRequirement;
